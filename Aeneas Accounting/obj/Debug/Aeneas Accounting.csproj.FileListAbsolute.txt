@@ -1,0 +1,13 @@
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\bin\Debug\Aeneas Accounting.exe.config
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\bin\Debug\Aeneas Accounting.exe
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\bin\Debug\Aeneas Accounting.pdb
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas Accounting.csprojAssemblyReference.cache
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas_Accounting.Entry.resources
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas_Accounting.Main.resources
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas_Accounting.Properties.Resources.resources
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas Accounting.csproj.GenerateResource.cache
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas Accounting.csproj.CoreCompileInputs.cache
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas Accounting.exe
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas Accounting.pdb
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas_Accounting.ExEntry.resources
+C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\obj\Debug\Aeneas_Accounting.SetBudget.resources

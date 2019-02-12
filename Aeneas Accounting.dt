@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT4H6M22.6828958S" SolutionTotalViewTime="PT7H33M48.8937543S" SolutionTotalDebugTime="PT1H8M2.9591313S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting</SolutionFolder>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT9M24.3893736S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-10T22:00:14.4124967+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.9937035S" EditActiveTime="PT6.7894895S">
+      <ModifiedDate>2019-02-10T22:07:11.341241+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-10T21:59:59.5318472+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT8.5502496S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\App.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T17:01:05.9366105+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H8M2.9591313S" EditActiveTime="PT14M15.729719S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>12</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-03T17:25:18.8061107+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT28M26.3694613S" EditActiveTime="PT37M10.9894803S">
+      <ModifiedDate>2019-02-04T12:07:07.2072747+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Entry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T17:02:58.2189416+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.3777002S" EditActiveTime="PT2.7653338S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Entry.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:05:01.9947351+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11M54.1225518S" EditActiveTime="PT6M14.7069045S">
+      <ModifiedDate>2019-02-04T20:57:33.7075646+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>6</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:01:59.3066415+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M17.4512398S" EditActiveTime="PT48.6474545S">
+      <ModifiedDate>2019-02-04T10:04:20.8213391+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:02:47.605673+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.0347813S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:03:43.6673163+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M58.3728812S" EditActiveTime="PT12M47.3392266S">
+      <ModifiedDate>2019-02-04T11:36:59.8954964+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\FileData.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T21:56:46.5095264+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6H44M39.9832536S" EditActiveTime="PT2H52M36.1437744S">
+      <ModifiedDate>2019-02-10T22:07:11.341241+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>9</EditedCount>
+      <ViewedCount>12</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T16:50:14.3405966+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.1149317S" EditActiveTime="PT6M25.1849071S">
+      <ModifiedDate>2019-02-05T07:40:18.6008643+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\SetBudget.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-05T07:31:12.5457578+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M53.5177034S" EditActiveTime="PT10M16.9058146S">
+      <ModifiedDate>2019-02-04T09:50:31.8618004+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Transaction.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T16:52:34.3009734+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT9M24.3893736S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-10T22:00:14.4124967+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.9907065S" EditActiveTime="PT6.7894895S">
+      <ModifiedDate>2019-02-10T22:07:11.341241+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-10T21:59:59.5318472+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M32.750865S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-08T11:13:26.5033483+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.8949207S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-08T11:13:15.1329597+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M34.1611402S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-06T22:38:32.5498832+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.8173125S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-06T22:38:23.571155+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT19M7.8678307S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-05T08:38:52.3834379+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H58M25.8134537S" EditActiveTime="PT2M17.7870757S">
+      <ModifiedDate>2019-02-05T08:48:43.1481899+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-05T08:38:20.0371338+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M21.2788242S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-05T07:40:21.9789327+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT34.6737969S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-05T07:37:17.0440488+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.1149317S" EditActiveTime="PT6M25.1849071S">
+      <ModifiedDate>2019-02-05T07:40:18.6008643+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\SetBudget.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-05T07:31:12.5457578+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M39.8790914S" EditActiveTime="PT6M51.015143S">
+      <ModifiedDate>2019-02-05T07:47:59.5260675+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-05T07:30:41.3983883+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.0942338S" EditActiveTime="PT8.5885595S">
+      <ModifiedDate>2019-02-04T20:57:33.7075646+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T20:57:16.6137337+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M22.0981952S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-04T20:56:10.2943174+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT48M10.3898969S" EditActiveTime="PT1M12.0773846S">
+      <ModifiedDate>2019-02-04T21:02:14.4843152+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T20:11:18.4564448+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M10.0068989S" EditActiveTime="PT3M41.2815628S">
+      <ModifiedDate>2019-02-04T11:36:59.8954964+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\FileData.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T11:32:15.0287946+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2H53M37.4644363S" EditActiveTime="PT28M34.8716313S">
+      <ModifiedDate>2019-02-04T16:38:07.2105159+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:20:22.0221777+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17M34.7133428S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-04T10:10:44.1665049+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10M15.0176939S" EditActiveTime="PT6M6.118345S">
+      <ModifiedDate>2019-02-04T16:32:08.5285635+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:10:17.2811196+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M18.3775849S" EditActiveTime="PT1M4.631848S">
+      <ModifiedDate>2019-02-04T12:07:07.2072747+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Entry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:09:48.5112948+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.2142302S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Entry.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:06:17.107939+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.6637216S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:06:06.3900084+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.9433403S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:06:05.6165435+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.7087878S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Transaction.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:05:57.2501521+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT38.4597976S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:05:54.6621302+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.8262465S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-04T10:05:49.9266327+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M36.0676492S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Entry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:05:40.4718565+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.16347S" EditActiveTime="PT2.7653338S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Entry.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:05:01.9947351+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.0347813S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:03:43.6673163+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT51.2910383S" EditActiveTime="PT48.6474545S">
+      <ModifiedDate>2019-02-04T10:04:20.8213391+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:02:47.605673+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT32.4449613S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:01:59.3066415+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.2729845S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\App.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:01:52.8452851+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24.2168612S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:01:13.9856637+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.2281443S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\ExEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T10:01:05.4279479+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT27.0528446S" EditActiveTime="PT13.4694831S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\FileData.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T09:59:16.8571896+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT48.6790843S" EditActiveTime="PT5M3.0970081S">
+      <ModifiedDate>2019-02-04T09:50:31.8618004+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Transaction.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T09:44:22.0408509+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15M30.4601329S" EditActiveTime="PT18M23.8180603S">
+      <ModifiedDate>2019-02-04T09:58:12.3220645+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T09:03:46.6455419+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M9.891636S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-04T09:02:58.4896326+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11M31.4797005S" EditActiveTime="PT15M18.2828432S">
+      <ModifiedDate>2019-02-04T09:43:55.8615992+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Entry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-04T08:51:55.2503341+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.8091315S" EditActiveTime="PT14M15.729719S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-03T22:11:23.7332501+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.6843428S" EditActiveTime="PT1M11.1127733S">
+      <ModifiedDate>2019-02-03T22:56:21.3331465+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Transaction.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T21:57:15.2613905+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M21.3131377S" EditActiveTime="PT8M52.5881807S">
+      <ModifiedDate>2019-02-03T22:26:43.1037073+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\FileData.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T21:56:46.5095264+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M56.8494088S" EditActiveTime="PT7M54.3813571S">
+      <ModifiedDate>2019-02-03T23:00:57.3713609+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Entry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T21:54:55.098681+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT21M51.2064137S" EditActiveTime="PT12M39.4499551S">
+      <ModifiedDate>2019-02-03T23:10:42.5302065+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T21:54:25.1340077+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M5.3977434S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-03T20:03:48.4792746+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M35.5688369S" EditActiveTime="PT5M43.6361944S">
+      <ModifiedDate>2019-02-03T20:16:30.1933575+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T20:02:53.1683053+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M34.7748022S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-03T17:25:18.8061107+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6M3.5951179S" EditActiveTime="PT12M53.693432S">
+      <ModifiedDate>2019-02-03T17:26:58.3188581+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Entry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T17:02:58.2189416+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.2772651S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\App.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T17:01:05.9366105+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M46.4454885S" EditActiveTime="PT4M2.6960332S">
+      <ModifiedDate>2019-02-03T16:57:43.4380033+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Transaction.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T16:52:34.3009734+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17M2.0412486S" EditActiveTime="PT1H36M46.6988405S">
+      <ModifiedDate>2019-02-03T19:24:04.2643004+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Main.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\Aeneas Accounting\Aeneas Accounting\Aeneas Accounting.csproj</ProjectName>
+      <CreatedDate>2019-02-03T16:50:14.3405966+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
